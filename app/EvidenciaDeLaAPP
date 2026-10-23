@@ -1,0 +1,11 @@
+# KotlinPet Manager v1.0 🐾
+
+**Asignatura:** Desarrollo de Aplicativos Móviles (EE053)
+**Estudiante:** Alejandro Gil
+**Código:** [Tu Código Estudiantil]
+
+## Descripción del Proyecto
+Aplicación móvil para la gestión de pacientes veterinarios desarrollada en Android Studio con **Jetpack Compose** y arquitectura **MVVM**. Permite registrar pacientes en tiempo real con validaciones de campos, resaltar atenciones de urgencia y visualizarlos en una lista dinámica mediante tarjetas de Material 3.
+
+## Evidencia de Funcionamiento
+![App Screenshot](evidencia de la app)
